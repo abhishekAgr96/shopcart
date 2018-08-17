@@ -1,0 +1,28 @@
+<p>
+  {{category}}
+
+</p>
+<button (click)="clickMe()">clickMe</button>
+<div class="container">
+  <div class="table">
+    <table>
+      <tr>
+        <th>Product Name</th>
+        <th>Price</th>
+        <td></td>
+      </tr>
+      <tr *ngFor="let product of productList">
+        <td>{{product.name}}</td>
+        <td>{{product.price}}</td>
+        <td>
+          <button (click)="totalPrice(product)">Add</button>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="cart">
+    <p>No. of Items={{totalItem}}</p>
+    <p>Total Price={{priceTotal}}</p>
+    <button (click)="checkOut()">CheckOut</button>
+  </div>
+</div>

@@ -1,0 +1,246 @@
+export const item=[{
+    category:"fruits",
+    productList:[{
+    name:"kiwi",
+	category:"fruits",
+    price:20,
+    quantity:0	
+},
+{
+	name:"pear",
+	category:"fruits",
+	price:30,
+    quantity:0	
+},
+{
+	name:"watermelon",
+	category:"fruits",
+	price:30,
+    quantity:0	
+},
+{
+	name:"banana",
+	category:"fruits",
+	price:20,
+    quantity:0
+},
+{
+	name:"pomegraname",
+	category:"fruits",
+	price:50,
+    quantity:0	
+},
+{
+	name:"papaya",
+	category:"fruits",
+	price:36,
+    quantity:0	
+},
+{
+	name:"sapota",
+	category:"fruits",
+	price:80,
+    quantity:0	
+},
+{
+	name:"avocada",
+	category:"fruits",
+	price:135,
+    quantity:0	
+},
+{
+	name:"muskmelon",
+	category:"fruits",
+	price:34,
+    quantity:0	
+}
+],
+    
+},{
+    category:'vegetables',
+    productList:[{
+        name:"beans",
+	category:"vegetables",
+	price:20,
+    quantity:0	
+},
+{
+	name:"palak",
+	category:"vegetables",
+	price:19,
+    quantity:0	
+},
+{
+	name:"onion",
+	category:"vegetables",
+	price:24,
+    quantity:0	
+},
+{
+	name:"potato",
+	category:"vegetables",
+	price:28,
+    quantity:0	
+},
+{
+	name:"tomato",
+	category:"vegetables",
+	price:10,
+    quantity:0	
+},
+{
+	name:"cauliflower",
+	category:"vegetables",
+	price:19,
+    quantity:0	
+},
+{
+	name:"capsicum",
+	category:"vegetables",
+	price:100,
+    quantity:0	
+},
+{
+	name:"carror",
+	category:"vegetables",
+	price:80,
+    quantity:0	
+},
+{
+	name:"mashrooms",
+	category:"vegetables",
+	price:52,
+    quantity:0	
+},
+{
+	name:"cucumber",
+	category:"vegetables",
+	price:24,
+    quantity:0
+    }]
+},{
+    category:"grocery",
+    productList:[{
+        name:"soyabin oil",
+	category:"grocery",
+	price:99,
+    quantity:0	
+},
+{
+	name:"rice",
+	category:"grocery",
+	price:44,
+    quantity:0	
+},
+{
+	name:"salt",
+	category:"grocery",
+	price:18,
+    quantity:0	
+},
+{
+	name:"haldi",
+	category:"grocery",
+	price:38,
+    quantity:0	
+},
+{
+	name:"ghee",
+	category:"grocery",
+	price:349,
+    quantity:0	
+},
+{
+	name:"ata",
+	category:"grocery",
+	price:256,
+    quantity:0	
+},
+{
+	name:"besan",
+	category:"grocery",
+	price:46,
+    quantity:0	
+},
+{
+	name:"red chilli powder",
+	category:"grocery",
+	price:22,
+    quantity:0	
+},
+{
+	name:"hing",
+	category:"grocery",
+	price:56,
+    quantity:0	
+},
+{
+	name:"poha",
+	category:"grocery",
+	price:49,
+    quantity:0
+    }]
+},{
+    category:"biscuits",
+    productList:[{
+        name:"oreo",
+        category:"biscuits",
+        price:35,
+        quantity:0
+    },
+    {
+        name:"hide & seek",
+        category:"biscuits",
+        price:59,
+        quantity:0
+    },
+    {
+        name:"parle-G",
+        category:"biscuits",
+        price:5,
+        quantity:0
+    },
+    {
+        name:"marie gold",
+        category:"biscuits",
+        price:10,
+        quantity:0
+    },
+    {
+        name:"good day",
+        category:"biscuits",
+        price:34,
+        quantity:0
+    },
+    {
+        name:"dark fantasy",
+        category:"biscuits",
+        price:56,
+        quantity:0
+    },
+    {
+        name:"jim jam",
+        category:"biscuits",
+        price:58,
+        quantity:0
+    },
+    {
+        name:"milk cream biscuit",
+        category:"biscuits",
+        price:38,
+        quantity:0
+    },
+    {
+        name:"chocolate wafer",
+        category:"biscuits",
+        price:71,
+        quantity:0
+    },
+    {
+        name:"monaco",
+        category:"biscuits",
+        price:47,
+        quantity:0
+    
+    }]
+}]

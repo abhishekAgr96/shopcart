@@ -1,0 +1,8 @@
+<span style="font-size:30px;cursor:pointer" (click)="openNav()">&#9776;</span>
+
+<div id="mySidenav" class="sidenav" >
+    <a class="closebtn" (click)="closeNav()">&times;</a>
+    <a *ngFor="let category of categoryAyyar" (click)="setCategory(category)">{{category}}</a>
+  </div> 
+  <!--  -->
+  <!-- href="javascript:void(0)" -->
